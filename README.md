@@ -1,5 +1,5 @@
 # QuantTradeGo
-@author: Ladaballe
+@author: Ladaballe  
 @version: 2.0.0
 
 The three main layers is stored in corresponding file folder.
